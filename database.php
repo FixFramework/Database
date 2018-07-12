@@ -1,6 +1,6 @@
 <?php
 
-namespace database;
+namespace fixframework\database;
 
 use Fix\Kernel\Url;
 
