@@ -15,7 +15,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "Fix\\": ""
+            "fixframework\\database\\": ""
         }
     },
 	"minimum-stability": "dev"
